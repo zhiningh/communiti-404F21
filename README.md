@@ -7,6 +7,10 @@ Communiti is a blogging/social network platform that will allow the importing of
 
 https://cmput404-proj-social-app.herokuapp.com/
 
+## Demo
+
+https://drive.google.com/file/d/1-GTfLsVRBdgRHQloBdJrHq_eq2TnjpfG/view?usp=sharing
+
 ## Local Deployment
 
 ### Prerequisite
