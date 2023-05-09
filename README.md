@@ -48,7 +48,7 @@ Internal documentation is inside /docs folder. You can `cd docs` or visit the li
 | ----------------- | --------------------------------------------- |
 | Grace Fu          | [GraceFu](https://github.com/GraceFu)         |
 | Jingzeng Xie      | [TheOnlyMiki](https://github.com/TheOnlyMiki) |
-| Zhining(Andi) He  | [zhininghjl](https://github.com/zhininghjl)   |
+| Zhining(Andi) He  | [zhiningh](https://github.com/zhiningh)       |
 | Faiyaz Ahmed      | [Faiyaz42](https://github.com/Faiyaz42)       |
 | Pengcheng Yan     | [ArcherUz](https://github.com/ArcherUz)       |
 
